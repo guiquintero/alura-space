@@ -13,5 +13,4 @@ To see more details, click on the link below:
 
 https://alura-space-rosy-eta.vercel.app/
 
-
-
+![Captura de tela 2023-12-29 204717](https://github.com/guiquintero/alura-space/assets/62731566/0ece5f63-e019-48b6-9a9d-a6c32f3a6fc8)
